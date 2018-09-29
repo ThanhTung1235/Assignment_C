@@ -1,0 +1,9 @@
+Ma sinh vien       Ten sinh vien       So dien thoai
+ ThanhTUng               1235
+             234556
+
+Ma sinh vien       Ten sinh vien       So dien thoai
+ ThanhUTng             123456
+              23456
+
+                                                  
